@@ -1,0 +1,62 @@
+.container {
+    display:grid;
+  font-family: 'ABeeZee', sans-serif;
+  background-color: rgb(57, 15, 15);
+  border: 2px solid black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  background: center;
+  background-image: url('img/menu5.jpg');
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-size: cover;
+}
+
+h1 {
+  background: -webkit-linear-gradient(
+    45deg,
+    #b27f3b 0%,
+    #5d470a 17%,
+    #745c27 33%,
+    #fdb54f 67%,
+    #dfa60a 70%,
+    #ee9f0c 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(142, 87, 11)0);
+  text-align: center;
+}
+
+h4 {
+  color: rgb(136, 84, 21);
+  text-align: center;
+}
+
+h5 {
+  margin-right: 70px;
+  margin-left: 70px;
+  color: rgb(14, 1, 1);
+  text-align: center;
+}
+
+.title {
+}
+
+.starter {
+}
+
+.soup {
+}
+
+.main {
+}
+
+.desert {
+}
